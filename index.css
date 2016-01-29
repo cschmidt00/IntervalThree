@@ -1,0 +1,17 @@
+
+canvas{
+    top:300px;
+    margin-left:400px;
+    margin-top:10px;
+    background-color:black;
+    border:black 2px solid;
+    
+}
+body{
+    background:#001163;
+}
+#respawn{
+    top:-500px;
+    margin-left:550px;
+    position: absolute;
+}
