@@ -183,6 +183,7 @@ function colCheck(shapeA, shapeB) {
     return colDir;
 }
 
+
 document.body.addEventListener("keydown",function(e){
     keys[e.keyCode]=true;
 });
